@@ -1,6 +1,6 @@
 ## PyTorch Demo of the Hyperspectral Image Classification method - MSTNC.
 Using the code should cite the following paper:
-Bai, Yu and Liu, Dongmin and Wu, Haoqi and Zhang, Lili, "MSTNC: Multi-Strategy Triple Network Classifier for Small-Sample Hyperspectral Image Classification" in IEEE Transactions on Geoscience and Remote Sensing, vol. , pp. 1-14, 2022, Art no. 5522214,  DOI:.
+Bai, Yu and Liu, Dongmin and Wu, Haoqi and Zhang, Lili, "MSTNC: Multi-Strategy Triple Network Classifier for Small-Sample Hyperspectral Image Classification" in IEEE Transactions on Geoscience and Remote Sensing
 
 @ARTICLE{
     author={Bai, Yu and Liu, Dongmin and Wu, Haoqi and Zhang, Lili},  
